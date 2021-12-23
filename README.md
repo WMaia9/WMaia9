@@ -1,16 +1,19 @@
-### Hi there 👋
+### Wesley Maia
+[![Linkedin Badge](https://img.shields.io/badge/-Wesley_Maia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/wesley-maia-62009612a/)](https://www.linkedin.com/in/ishagupta20/) [![Gmail Badge](https://img.shields.io/badge/-wesleymaia999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:ishagupta2103@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-<!--
-**WMaia9/WMaia9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Languages :** Python, R, JavaScript
+-  **Hobbies :** Moveis & Music :headphones:
+-  **Fact :** First solve the problem, then write the code :heart: 
+-  **Organization :** Hand Talk
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github stats](https://github-readme-stats.vercel.app/api?username=Isha2103&show_icons=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+⭐️ From [Isha Gupta](https://github.com/WMaia9)
