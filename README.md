@@ -5,7 +5,7 @@
 
 -  **Learning :** Deep Learning :zap: | Open-Source :fire:	
 -  **Languages :** Python, R, JavaScript
--  **Hobbies :** Moveis & Music :headphones:
+-  **Hobbies :** Movies & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 -  **Organization :** Hand Talk
 
